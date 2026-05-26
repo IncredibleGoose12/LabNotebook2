@@ -14,11 +14,11 @@
 
 ## Table of Contents 
 
-[[Meeting Notes]]
+[[Meeting_Notes]]
 - detailed meeting notes with mentor
 [[Priorities]]
 - Running list of tasks/priorities
-[[Daily Notes]]
+[[Daily_Notes_Template]]
 - Daily to do list/goals
 
 ### Projects

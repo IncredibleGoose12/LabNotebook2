@@ -8,10 +8,11 @@
 	- can add notes as you do tasks. but most detail should be in project specific notes
 - [ ] [task2]
 - [ ] [task3]
-- [ ] [task4] testestest
+- [ ] [task4] 
 
 *Example:*
 - [ ] *Weigh 10 oyster shells*
 - [ ] *Autoclave glassware*
 - [ ] *Score 3 coralnet photos*
 
+______
