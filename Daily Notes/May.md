@@ -1,15 +1,15 @@
 # [05/26/2026]
 ## Daily To Do List
 - Today has been move-in day for the grad offices! In addition, I need to:
-	- [ ] Fill out IDP
-	- [ ] Fill out Mentoring agreement
+	- [x] Fill out IDP
+	- [x] Fill out Mentoring agreement
 
-Location vs appearance - is one location likely to have greater triggers for coral disease and bleaching
-Does location have an impact on parasite susceptibility 
-Does location have an impact on sequence data
-Does coral species have a relationship between bleaching or SCTLD susceptibility
-Does one location have a greater percentage of live vs dead tissue?
-Quantity of disease/bleached corals on a reef, do some reefs have greater quantity?
-Biodiversity - Video/Coral data/Photo
 
 ______
+# [05/29/2026]
+## Daily To Do List
+- After being out for the past 2 days due to a stomach illness of some kind (I believe I ate something bad, and it was not viral...but wearing a mask to be safe!)
+	- [ ] Meet with Nikea
+	- [ ] Print out DNA extraction protocols
+	- [ ] Get an idea for how my first extractions are going to look
+	- [ ] Find where the sheet that tells me where the samples are (in the freezer!) Nikea told me where this was and I have lost it while I was making my master link sheet.
