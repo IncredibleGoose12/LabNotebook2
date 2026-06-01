@@ -24,12 +24,16 @@ ____________
 ### Samples
 - (528 (normal) ,534 (disease margin), 535 (disease tissue))
 	- COL_SAN_Protran1_528 DNA - sample 1
+		- weight - 0.1253g
 	- COL_SAN_Protran1_534 DNA - sample 2
+		- weight - 0.0813g
 	- COL_SAN_Protran1_535 DNA - sample 3
+		- weight - 0.1161g
 	- negative control - sample 4
+		- weight - NA
 
 ### Notes 
 - this was my first day working with coral samples as well as the first time I have worked on this protocol in several months, so it was nice to get reacquainted. 
 - no major mistakes, however as i write this i am waiting on the second incubation/wash step and need to make some pretty heavy modifications to the procedure, as well as make some working bottles for several reagents (100% and 75% ethanol, 8mM NaOH, etc)
 - Make sure to modify the COL_SAN_Protrain probiotic worksheet and push it to make Nikea a reviewer!! 
-	- 528,534,535
+	- 528,534,535 - done!
