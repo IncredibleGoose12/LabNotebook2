@@ -28,3 +28,6 @@ _____
 
 -  More extractions!
 ## Nikea notes
+_great job with those first extractions! Let's talk about whether this protocol makes sense to move forward with, Ria extracted a Protran PSTR sample with the other approach and got higher conc (~2 ng/ul). what concentrations were you getting with Jade's samples?_
+_I'm sorry if this is a hassle, could you turn your IDP into a word doc please? it would just be easier to add notes to it_ 
+_pick a paper for lab meeting or talk more about what you might want to do?_
