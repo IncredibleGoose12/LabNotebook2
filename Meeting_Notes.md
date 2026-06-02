@@ -14,14 +14,17 @@ _Great job this week! let's map out the results and discussion section in our me
 
 _____
 
-# 05/26/2026
+# 06/03/2026
 
 ## What I accomplished last week
 
-- 
+- Performed first DNA extraction in a while
+- Modified Trizol protocol in order to make it a bit more streamlined for our usecase
+- Learned Qubit
 ### Notes
+- Going forward, what samples would we like to pick from? Will I be carrying on with TriZOL? I'm not really certain how this project looks as whole, yet.
 
 ## What I plan to do this week
 
-- 
+-  More extractions!
 ## Nikea notes
