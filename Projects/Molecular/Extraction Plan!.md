@@ -1,0 +1,2 @@
+Location of Extracted Samples - 4C Molecular Fridge, in a box labelled with 'Brandon Probiotic Extractions', with a secondary (and as many labels will be needed) recording when each extraction had occurred. At time of writing, there is only a single extraction performed,
+- 6/1 - 528,534,535 

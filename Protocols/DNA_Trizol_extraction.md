@@ -1,10 +1,12 @@
 *(Lindsey Crawford UNL - August 20, 2024)*
-Last edit: September 24, 2025 JM
+Last edit: June 2, 2026 BAS
 ### Notes
-- Use to isolate both DNA and RNA from the same sample
 - This protocol has been updated from the manufacturer's for 500uL of Trizol, so reagent volumes are cut in half
-- Optimized for working with small samples of oyster tissue
+- Optimized for working with small samples of CORAL tissue. we hate oysters.
 - ~5 hours from start to DNA in the fridge for incubation
+- 1 hour~ on bench towards back
+- 1 hour~ in fume hood
+- 2 hours in and hour of BSC (laminar flow hood, the sterile one)
 ### Materials
 ***Homogenizing***
 - RNase away
@@ -21,12 +23,6 @@ Last edit: September 24, 2025 JM
 - Cold rack
 - Bleach
 
-***RNA Extraction***
-- 100% isopropanol (250uL per sample)
-- Glycogen (0.5uL per sample)
-- 75% ethanol (1mL per sample)
-- Molecular grade water (RNA-free, 30uL per sample)
-- Liquid nitrogen (if not available, can use dry ice and 100% ethanol)
 
 ***DNA Extraction***
 - DNA lo-bind 1.5mL tubes (1 per sample)
@@ -64,8 +60,9 @@ Last edit: September 24, 2025 JM
 		- Store at room temp 
 ### 0. Prep
 - Set minicentrifuge to 4ºC
-- Set incubator to 55-60ºC
-- UV 1.5mL tubes and label
+- Create an ice bucket
+- Remove coral samples and let them begin to thaw in an ice bucket
+- UV 1.5mL (RNA-free eppendorf) and 2.0mL (cryovial) tubes and label
 	- Example: 2024_Hyp06_Warm06_B71_RNAlater_muscle
 		- Top of tube: HWB71 muscle 
 		- Side of tube: H6-W6-B71, RNA/DNA, date, initials, muscle
@@ -84,7 +81,7 @@ Last edit: September 24, 2025 JM
 
 1. Move samples from RNAlater into 2mL tubes making sure to sterilize (ethanol-flame) forceps between samples
 
-**Perform the following procedure in the fume hood. Take precautions to avoid RNA contamination. If Trizol or chloroform spill on gloves, discard in hazardous waste container and get a new pair.** 
+**Perform the following procedure in the fume hood. If Trizol or chloroform spill on gloves, discard in hazardous waste container and get a new pair.** 
 
 1. Using the cold rack, add 500uL Trizol to each sample
 2. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
@@ -112,60 +109,20 @@ Due to the Homogenizer 150 getting hot with use and the potential for RNA degrad
 	- Wearing gloves and touching only the top part of the probes that do not come into direct contact with any tissue samples, rinse using DI 
 	- Let the probes dry in the hood on the kimwipes and proceed with the protocol
 	- Once they are completely dry, take a sheet of aluminum foil and UV sterilize it in the hood; re-assemble the probes before wrapping in the foil to keep clean
-6. Carefully pipette out the aqueous phase containing the RNA; avoid drawing any of the interphase or organic layer into the pipette as this will cause phenol contamination
-	- Tilting the tube at a slight angle is okay, but keeping the tube more upright will help prevent the phases from mixing
-	- Try to remove 150uL of the aqueous phase - less is more! Being greedy = contaminated RNA
-	- If aqueous layer is slightly pink in color after initial spin, try spinning again for 5 minutes; if the liquid still doesn't clear up, proceed as normal through steps (Don't panic! It's still possible to get high quality product)
-7. Place the aqueous phase into pre-labeled 1.5mL tube and proceed to RNA isolation
-8. Store the interphase and organic phase at 4ºC for DNA isolation later the same day
+6. Carefully pipette out the aqueous phase containing the RNA; discard
+7. Store the interphase and organic phase at 4ºC for DNA isolation later the same day
 
 Work can move to the biosafety cabinet/laminar flow hood
-### 2. RNA Isolation
-
-**Keep all alcohols on ice throughout RNA isolation. Always use appropriate precautions to avoid RNA contamination:**
-- Spray working area with bleach followed by RNase away
-- Change gloves as needed
-
-**Precipitate the RNA**
-1. Add 0.5uL RNase-free glycogen (want 5-10µg, this is for 20 mg/mL glycogen)
-2. Add 250uL of isopropanol, pipette up and down to mix, and incubate in cold rack for 10 minutes
-3. Centrifuge at 12,000g for 10 minutes at 4ºC
-4. Remove the supernatant from the tube, leaving only the gel-like RNA pellet
-
-**Wash the RNA**
-1. Add 500uL of 75% ethanol to wash the pellet; vortex sample briefly then centrifuge at 7,500g for 5 minutes at 4ºC 
-	- Really want to make sure the pellet is dislodged from the side of the tube and interacting with ethanol, so flick to dislodge
-	- Rotate the tube to make sure all surfaces are coated in ethanol
-2. Remove and discard the supernatant, going back in with a smaller pipette tip to remove all excess liquid
-	- Going back in with a smaller pipette tip (P200) is very important to prevent low 260/230 values—it's worth the extra effort!
-3. Repeat ethanol wash step (1 & 2)
-4. Air dry the RNA pellet for 5-10 minutes; do not allow the RNA pellet to dry completely 
-	- Again, go back in with a smaller pipette tip (P20) to extract any remaining ethanol before solubilization
-
-**Solubilize the RNA**
-1. Resuspend the RNA pellet in 30µL RNase-free water by pipetting the solution up and down several times
-2. Incubate at 55-60ºC for 10-15 minutes
-	- This is a good time to go get liquid nitrogen (or dry ice) to flash freeze the samples
-3. Give each sample a good vortex or flick before proceeding to quantification
-4. Measure on Nanodrop/Qubit ([calculations spreadsheet](https://docs.google.com/spreadsheets/d/1dncCvx_XR8j56II3qtQBzECOIseynwCOv8T3BreIVWM/edit?usp=sharing))
-	- A260/280 = ~2.0 (if lower, likely presence of DNA, protein, phenol, etc)
-	- A260/230 = 2.0 - 2.2 (if lower, likely presence of Trizol, phenol, etc)
-	- Could also do DNA qubit to double check the majority of your sample isn't contaminated with DNA since Nanodrop won't be able to pick up on this
-5. Flash freeze RNA in liquid nitrogen before moving to -80ºC
-	- If liquid nitrogen is not available, RNA can be flash frozen with dry ice and 100% ethanol (be careful to not wipe label markings off tubes with the ethanol)
-6. Long-term storage at -80ºC
-	1. If the downstream application is RNA-seq, treat with [DNase](https://github.com/GWLab-UML/Protocols/blob/5235c06ff8c6466e2f4119e437bf020e83474f65/Molecular_labwork/DNase%20Treatment.md) to remove any potential DNA contamination
-
-### 3. DNA Isolation
+### 2. DNA Isolation
 
 **Perform the following procedure in the fume hood, except for centrifugation.**
 
 **Precipitate the DNA**
-1. Remove any remaining aqueous phase using a smaller pipette (P200)—this step is critical to limiting DNA contamination, but DO NOT DISTURB THE INTERPHASE
+1. Remove any remaining aqueous phase using a smaller pipette (P200 as well as P1000)—this step is critical to limiting DNA contamination, but DO NOT DISTURB THE INTERPHASE
 	- If significantly disturbed, consider re-spinning at 12,000g for 5 minutes before trying to remove the aqueous phase again
 2. Add 150uL 100% ethanol, thoroughly mix via pipetting up and down, then move to pre-labeled 1.5mL DNA lo-bind tube
 3. Briefly vortex each sample before incubating for 2 minutes at room temperature
-4. Centrifuge at 5,000g for 5 minutes at 4ºC
+4. Centrifuge at 5,000g for 5 minutes at 4ºC (Program 4)
 5. Aspirate out the phenol-ethanol supernatant, going back in with a smaller pipette (P200) tip to remove all excess liquid
 
 Work can now move to the biosafety cabinet/laminar flow hood
