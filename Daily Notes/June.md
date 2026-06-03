@@ -7,6 +7,12 @@
 
 # [06/02/2026]
 ## Daily To Do List
--  [ ] Qubit samples
--  [ ] Modify Trizol protocol to make it more streamlined
--  [ ] Read for an hour
+-  [x] Qubit samples
+-  [x] Modify Trizol protocol to make it more streamlined
+-  [x] Read for an hour
+
+# [06/03/2026]
+## Daily To Do List
+-  [ ] Meet with Nikea
+-  [ ] Create metadata sheet for extractions
+-  [ ] 

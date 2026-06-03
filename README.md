@@ -1,7 +1,7 @@
 # LabNotebook-Template
 
-- [NAME] Lab Notebook in Gignoux-Wolfsohn lab at University of Massachusetts Lowell 
-- Started [MONTH YEAR]
+- Brandon Seholm's Lab Notebook in Gignoux-Wolfsohn lab at University of Massachusetts Lowell 
+- Started in earnest 6/1/2026
 
 - **General Instructions for lab notebook:**
 	- Meeting notes, priorities, daily notes should be set up the same for everyone
@@ -25,10 +25,7 @@
 - *This section is adjustable. Discuss with mentor about how best to organize project notes*
 #### Coral
 - [[Coralnet]]
-#### Oyster
-- [[Shell Weighing]]
 #### Molecular
-- *example - it might make sense for molecular to be its own category or can put subcategory in coral or oyster*
 - [[DNA Extractions]]
 
 

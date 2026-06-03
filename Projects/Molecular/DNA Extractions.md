@@ -66,6 +66,8 @@ With Rias help, I was about to get it done! The quantities were as follows:
 	- negative control - sample 4
 		- weight - NA
 		- DNA conc - too low
+- S1 - 36.02 ng/ul
+- S2 - 10823.17 ng/ul
 At least we got some DNA in some of the samples, the first sample perhaps had too small of a tissue sample to be a productive extraction? Not certain. We will carry on!
 ### Notes 
 - The remaining DNA extracted was placed in a box titled "Brandons Probiotic Extractions", stored in the 4C molecular fridge. I also placed a second label showing the date that extraction was performed was well as the numbers of the samples. In this case, it reads:
