@@ -73,3 +73,11 @@ At least we got some DNA in some of the samples, the first sample perhaps had to
 - The remaining DNA extracted was placed in a box titled "Brandons Probiotic Extractions", stored in the 4C molecular fridge. I also placed a second label showing the date that extraction was performed was well as the numbers of the samples. In this case, it reads:
 	- 6/1 - 528,534,535
 
+UV Sterilize  
+ - 2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes --> 
+ - 1 x # of samples in 2 mL cryovials --> 
+ - 1 x # of samples in Disruptor tubes --> 
+ - 1 x # of samples in HiBind column plus collector tube --> 
+ - 1.5 mL Eppendorf tubes (Elution buffer and working solution) --> 2
+Qubit tubes --> number of samples + 2 =
+ Incubate 75µL x # of samples of elution buffer -- > 
