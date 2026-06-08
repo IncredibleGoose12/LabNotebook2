@@ -17,6 +17,9 @@ Previous edit: BKS & NJU 6/25/25
 	- 1 x # of samples in 2 mL cryovials (or 2 x 1.5 mL Eppendorf tubes)
 	- 1 x # of samples in Disruptor tubes
 	- 1 x # of samples in HiBind column plus collector tube
+	-  1.5 mL Eppendorf tubes (Elution buffer and working solution) --> 2
+	- Qubit tubes --> number of samples + 2 =
+	 - Incubate 75µL x # of samples of elution buffer -- > 
 - Wash Hands up to your elbows & mask up!
 - Bleach all surfaces prior to use (heat sterilization bench, and Bio Safety Cabinet)
 - Thaw coral samples on ice
