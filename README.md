@@ -26,7 +26,7 @@
 #### Coral
 - [[Coralnet]]
 #### Molecular
-- [[DNA Extractions]]
+- [[DNA Extraction Notes]]
 
 
 
