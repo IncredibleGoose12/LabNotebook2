@@ -59,5 +59,9 @@
 
 # [06/13/2026]
 -  [ ] Set up extractions for tomorrow
--  [ ] Finish reading for lab meeting and brainstorm a few questions
 -  [ ] Visualize data on the chart I have for at least one genet
+-  [x] Range for number of samples: 8 - 12 (including ), extraction tomorrow do seven pus one negative 522-542 (Do six OFAV, one PSTR, one MCAV)
+	- 523,524,526,527,528,529,540
+-  [x] Create a list of samples from the timepoints of interest including: tubelabel, timepoint, tank, genet
+-  [ ] For lab meeting, make sure to create talking points around the figures
+-  [ ] Read new papers Nikea put in Probiotics for me!
