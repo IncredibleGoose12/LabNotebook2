@@ -21,3 +21,43 @@
 	- "I used enriched microbe DNA for the older samples that I had already enriched (didn't go out of my way to enrich more recent samples) and it helped make my bands more consistent sample to sample  (edited)
 	- If i were starting from scratch I would do an annealing gradient for a few test samples with the “raw” dna and see how the bands come out"
 -  [x] Put fridge information on sheet
+
+# [06/08/2026]
+## Daily To Do List
+- Fix github branch issue!
+	- [x] Delete pull request on the main lab notebook branch
+	- [x] Read the journal club paper
+	- [x] come up with quick introduction post for lab instagram
+	- [x] Helped sarah come up with the Honors club guidelines for the lab
+
+# [06/09/2026]
+## Daily To Do List
+-  [x] Perform extraction
+	- 585 ,586, 587,588, 589 2 PSTR - 3 OFAV - timepoint 3.1
+-  [x] Set up area for my own plastics!
+	- I set up bags of cryovials and 1.5ml lo-bind eppendorf
+-  [x] Organize metadata sheet
+
+# [06/10/2026]
+-  [ ] Schedule another extraction later tonight after getting codes 
+-  [ ] Read Sarah's paper for journal club
+-  [x] Ask Sarah to add me to Zotero library - coral microbiome
+-  [x] Familiarize myself with the visualization data 
+-  [x] Find a paper that is recent - relevant to the realm of our labs research
+-  [ ] Look in the literature to see if other transmission experiments and see how they visualized and plotted their health status information
+
+# [06/11/2026]
+- carrying over some stragglers from yday
+-  [x] Schedule another extraction later tonight after getting codes 
+-  [ ] Read Sarah's paper for journal club
+-  [x] Look in the literature to see if other transmission experiments and see how they visualized and plotted their health status information - i have a shortlist of a few
+-  [x] Okay I read a chapter of every living thing instead of being productive but that still counts right?
+
+# [06/12/2026]
+- [x] Reading 1 paper for possible lab meeting discussion i will lead
+- [x] Read a little bit more of that book sarah got me!! Really enjoying it, has a cohesive narrative of linnaeus's early life.
+
+# [06/13/2026]
+-  [ ] Set up extractions for tomorrow
+-  [ ] Finish reading for lab meeting and brainstorm a few questions
+-  [ ] Visualize data on the chart I have for at least one genet

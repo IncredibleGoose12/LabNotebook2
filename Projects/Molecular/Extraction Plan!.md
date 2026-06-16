@@ -4,9 +4,10 @@ HT - Healthy Tissue
 DT - Disease Tissue
 DM - Disease Margin
 
-- 6/1 - 528,534,535 
 
-| Date of Extraction | Samples Extracted | Box Containing Extracted Samples | Location of Box |
-| ------------------ | ----------------- | -------------------------------- | --------------- |
-| 06/01/2026         | 528,534,535       | Brandon_Box_1                    | Penguin         |
-| 06/04/2026         | 571,572,573       | Ria_Box_1                        | Penguin         |
+| Date of Extraction | Samples Extracted   | Box Containing Extracted Samples | Location of Box |
+| ------------------ | ------------------- | -------------------------------- | --------------- |
+| 06/01/2026         | 528,534,535         | Brandon_Box_1                    | Penguin         |
+| 06/04/2026         | 571,572,573         | Ria_Box_1                        | Penguin         |
+| 06/09/2026         | 585,586,587,588,589 | Brandon_Box_1                    | Penguin         |
+| 06/17/2026         |                     | Brandon_Box_1                    | Penguin         |
