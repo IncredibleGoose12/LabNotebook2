@@ -19,7 +19,8 @@ Previous edit: BKS & NJU 6/25/25
 	- 1 x # of samples in HiBind column plus collector tube
 	-  1.5 mL Eppendorf tubes (Elution buffer and working solution) --> 2
 	- Qubit tubes --> number of samples + 2 =
-	 - Incubate 75µL x # of samples of elution buffer -- > 
+	 - Incubate 75µL x # of samples of elution buffer -- > 450ul
+	 - UV sterilize forceps + beaker to hold them
 - Wash Hands up to your elbows & mask up!
 - Bleach all surfaces prior to use (heat sterilization bench, and Bio Safety Cabinet)
 - Thaw coral samples on ice

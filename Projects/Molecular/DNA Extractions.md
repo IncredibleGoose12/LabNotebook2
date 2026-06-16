@@ -81,3 +81,54 @@ UV Sterilize
  - 1.5 mL Eppendorf tubes (Elution buffer and working solution) --> 2
 Qubit tubes --> number of samples + 2 =
  Incubate 75µL x # of samples of elution buffer -- > 
+
+
+______
+## [06/09/2026]
+### Samples
+- 585,586,587,588,589
+	- 102025_COL_SAN_Protran1_585_PSTR
+		- weight - 0.066g
+	- 102025_COL_SAN_Protran1_586_PSTR
+		- weight - 0.0602g
+		- note: ~100ul liquid
+	- 102025_COL_SAN_Protran1_587_OFAV
+		- weight - 0.506g
+	- 102025_COL_SAN_Protran1_588_OFAV
+		- weight - 0.0516g
+	- 102025_COL_SAN_Protran1_589_OFAV
+		- weight - 0.1425
+		- note: contained more mucous than other samples, took ~100ul liquid
+### Notes 
+-  2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes -->  12
+ - 1 x # of samples in 2 mL cryovials --> 6
+ - 1 x # of samples in Disruptor tubes --> 6
+ - 1 x # of samples in HiBind column plus collector tube --> 6
+ - 1.5 mL Eppendorf tubes (Elution buffer and working solution) --> 2
+Qubit tubes --> number of samples + 2 = 14
+ Incubate 75µL x # of samples of elution buffer -- > 
+ 
+______
+## [06/17/2026]
+### Samples
+- 585,586,587,588,589
+	- 102025_COL_SAN_Protran1_585_PSTR
+		- weight - 0.066g
+	- 102025_COL_SAN_Protran1_586_PSTR
+		- weight - 0.0602g
+		- note: ~100ul liquid
+	- 102025_COL_SAN_Protran1_587_OFAV
+		- weight - 0.506g
+	- 102025_COL_SAN_Protran1_588_OFAV
+		- weight - 0.0516g
+	- 102025_COL_SAN_Protran1_589_OFAV
+		- weight - 0.1425
+		- note: contained more mucous than other samples, took ~100ul liquid
+### Notes 
+-  2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes -->  12
+ - 1 x # of samples in 2 mL cryovials --> 6
+ - 1 x # of samples in Disruptor tubes --> 6
+ - 1 x # of samples in HiBind column plus collector tube --> 6
+ - 1.5 mL Eppendorf tubes (Elution buffer and working solution) --> 2
+Qubit tubes --> number of samples + 2 = 14
+ Incubate 75µL x # of samples of elution buffer -- > 
