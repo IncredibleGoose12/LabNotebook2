@@ -57,11 +57,21 @@
 - [x] Reading 1 paper for possible lab meeting discussion i will lead
 - [x] Read a little bit more of that book sarah got me!! Really enjoying it, has a cohesive narrative of linnaeus's early life.
 
-# [06/13/2026]
--  [ ] Set up extractions for tomorrow
+# [06/16/2026]
+-  [x] Set up extractions for tomorrow
 -  [ ] Visualize data on the chart I have for at least one genet
 -  [x] Range for number of samples: 8 - 12 (including ), extraction tomorrow do seven pus one negative 522-542 (Do six OFAV, one PSTR, one MCAV)
 	- 523,524,526,527,528,529,540
 -  [x] Create a list of samples from the timepoints of interest including: tubelabel, timepoint, tank, genet
 -  [ ] For lab meeting, make sure to create talking points around the figures
 -  [ ] Read new papers Nikea put in Probiotics for me!
+
+# [06/17/2026]
+-  [x] complete extraction
+-  [x] update metadata tracker
+-  [x] update DNA extraction notes
+
+# [06/17/2026]
+-  [ ] My main goal today is to try and craft a discussion for lab meeting tomorrow, so I am taking great notes and deep diving into the paper and gonna try and come up with specific areas to try and ask questions
+-  [ ] Additionally, planned a meeting with Sarah
+-  [ ] Lastly, I need to do a bit of visualization that I have said I am going to do forever now.
