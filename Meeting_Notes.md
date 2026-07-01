@@ -31,3 +31,19 @@ _____
 _great job with those first extractions! Let's talk about whether this protocol makes sense to move forward with, Ria extracted a Protran PSTR sample with the other approach and got higher conc (~2 ng/ul). what concentrations were you getting with Jade's samples?_
 _I'm sorry if this is a hassle, could you turn your IDP into a word doc please? it would just be easier to add notes to it_ 
 _pick a paper for lab meeting or talk more about what you might want to do?_
+
+
+_____
+
+# 07/1/2026
+## What I accomplished last week
+- Starting getting into the rhythm of extractions, so far they have been going smoothly while ramping up the quantity of samples (up to 9 as of 6/30!)
+- Led a lab meeting for a paper discussion
+- Need to get back into reading papers/scheduling my time. I've been trying it out this week, but for example I completely forgot journal club existed. I'll get my feet back under me eventually, I guess!
+### Notes
+## What I plan to do this week
+- 2 more extractions, if not 3. I would like to do more, but with so many people doing extractions during the day it gets seriously crowded/shared equipment makes things take longer. I might do T/Th and the occasional weekend extraction for peace of mind purposes.
+- Read at least two more papers, I am part way through one that I began reading yesterday (as of typing this on 6/30, so I read it on 6/29 :) )
+- Pshhh I dunno
+## Nikea notes
+_nice! glad that extractions are going smoothly. What is your note-taking approach for paper reading? We can chat about this next week!_

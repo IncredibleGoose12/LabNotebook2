@@ -111,7 +111,7 @@ Qubit tubes --> number of samples + 2 = 14
 ______
 ## [06/17/2026]
 ### Samples
-- 585,586,587,588,589
+- 
 	- 102025_COL_SAN_Protran1_523_OFAV
 		- weight - 0.1323g - incl 100ul liq
 		- conc - 1.61ng/ul
@@ -133,4 +133,31 @@ ______
 	- 102025_COL_SAN_Protran1_540_MCAV
 		- weight - 0.0038g
 		- conc - 18.3ng/ul
+### Notes 
+
+____
+## [06/25/2026]
+### Samples
+- 
+	- 102025_COL_SAN_Protran1_33_OFAV
+		- weight - 0.1100g
+		- conc - 6.52ng/ul
+	- 102025_COL_SAN_Protran1_41_OFAV
+		- weight - 0.0597g
+		- conc - 9.96ng/ul
+	- 102025_COL_SAN_Protran1_90_OFAV
+		- weight - 0.0151g
+		- conc - 16.1ng/ul
+	- 102025_COL_SAN_Protran1_132_OFAV
+		- weight - 0.1356g
+		- conc - 3.30ng/ul
+	- 102025_COL_SAN_Protran1_215_OFAV
+		- weight - 0.1293g
+		- conc - 1.59ng/ul
+	- 102025_COL_SAN_Protran1_281_OFAV
+		- weight - 0.1446g
+		- conc - 4.10ng/ul
+	- 102025_COL_SAN_Protran1_312_OFAV
+		- weight - 0.1511g
+		- conc - 0.562ng/ul
 ### Notes 
