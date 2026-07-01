@@ -46,3 +46,4 @@ _____
 - Read at least two more papers, I am part way through one that I began reading yesterday (as of typing this on 6/30, so I read it on 6/29 :) )
 - Pshhh I dunno
 ## Nikea notes
+_nice! glad that extractions are going smoothly. What is your note-taking approach for paper reading? We can chat about this next week!_
