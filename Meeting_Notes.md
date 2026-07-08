@@ -47,3 +47,16 @@ _____
 - Pshhh I dunno
 ## Nikea notes
 _nice! glad that extractions are going smoothly. What is your note-taking approach for paper reading? We can chat about this next week!_
+
+________
+# 07/8/2026
+## What I accomplished last week
+- Continue to do extractions, as I have continued to get consistent results I have felt more and more confident about it and more comfortable overall about the project
+- Did a bit more reading than I have been (2 papers this week)
+- Updated IDP
+### Notes
+## What I plan to do this week
+- 2 more extractions, if not 3. I would like to do more, but with so many people doing extractions during the day it gets seriously crowded/shared equipment makes things take longer. I might do T/Th and the occasional weekend extraction for peace of mind purposes.
+- Read at least two more papers
+- Pshhh I dunno
+## Nikea notes
