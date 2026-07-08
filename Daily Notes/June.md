@@ -71,7 +71,25 @@
 -  [x] update metadata tracker
 -  [x] update DNA extraction notes
 
-# [06/17/2026]
--  [ ] My main goal today is to try and craft a discussion for lab meeting tomorrow, so I am taking great notes and deep diving into the paper and gonna try and come up with specific areas to try and ask questions
--  [ ] Additionally, planned a meeting with Sarah
--  [ ] Lastly, I need to do a bit of visualization that I have said I am going to do forever now.
+# [06/24/2026]
+-  [x] My main goal today is to try and craft a discussion for lab meeting tomorrow, so I am taking great notes and deep diving into the paper and gonna try and come up with specific areas to try and ask questions
+-  [x] Additionally, planned a meeting with Sarah
+-  [x] Lastly, I need to do a bit of visualization that I have said I am going to do forever now.
+-  [ ] Read 1 paper from Probiotics shared library
+
+# [06/25/2026]
+-  [x] Extract samples
+
+# [06/26/2026]
+-  [x]  Create schedule for next week
+-  [x]  Update metadata info for extractions done yesterday
+-  [ ]  Read 1 Paper
+
+# [06/26/2026]
+-  [x] ~~Okay, todays major goal is gonna be to read a scientific paper, something I said I was gonna do on friday but never did. I will first select a paper~~
+	- I have decided! It is gonna be "Evaluating the effectiveness of  field-based probiotic treatments  for stony coral tissue loss disease in southeast Florida, USA" (Pitts et. al 2025)
+-  [x] ~~Okay before I read the paper I updated the documents relating to extractions (my metadata tracker and marking the samples as extracted on the inventory sheet for extractions done on 6/17 and 6/25)~~ 
+-  [ ]  I will check this box when I have finished reading through this paper
+	- Got through half of it only :(
+# [06/26/2026]
+ - Extract!!!

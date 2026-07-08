@@ -111,7 +111,7 @@ Qubit tubes --> number of samples + 2 = 14
 ______
 ## [06/17/2026]
 ### Samples
-- 585,586,587,588,589
+- 
 	- 102025_COL_SAN_Protran1_523_OFAV
 		- weight - 0.1323g - incl 100ul liq
 		- conc - 1.61ng/ul
@@ -134,3 +134,90 @@ ______
 		- weight - 0.0038g
 		- conc - 18.3ng/ul
 ### Notes 
+
+____
+## [06/25/2026]
+### Samples
+- 
+	- 102025_COL_SAN_Protran1_33_OFAV
+		- weight - 0.1100g
+		- conc - 6.52ng/ul
+	- 102025_COL_SAN_Protran1_41_OFAV
+		- weight - 0.0597g
+		- conc - 9.96ng/ul
+	- 102025_COL_SAN_Protran1_90_OFAV
+		- weight - 0.0151g
+		- conc - 16.1ng/ul
+	- 102025_COL_SAN_Protran1_132_OFAV
+		- weight - 0.1356g
+		- conc - 3.30ng/ul
+	- 102025_COL_SAN_Protran1_215_OFAV
+		- weight - 0.1293g
+		- conc - 1.59ng/ul
+	- 102025_COL_SAN_Protran1_281_OFAV
+		- weight - 0.1446g
+		- conc - 4.10ng/ul
+	- 102025_COL_SAN_Protran1_312_OFAV
+		- weight - 0.1511g
+		- conc - 0.562ng/ul
+### Notes 
+
+____
+## [07/03/2026]
+
+- 102025_COL_SAN_Protran1_35_OFAV
+	- weight - 0.1273g
+	- conc - 15.2ng/ul
+- 102025_COL_SAN_Protran1_85_OFAV
+	- weight - 0.1378g
+	- conc - 9.58ng/ul
+- 102025_COL_SAN_Protran1_174_OFAV
+	- weight - 0.1436g
+	- conc - 14.0ng/ul
+- 102025_COL_SAN_Protran1_246_OFAV
+	- weight - 0.1343g
+	- conc - 1.8ng/ul
+- 102025_COL_SAN_Protran1_280_OFAV
+	- weight - 0.1455g
+	- conc - 3.32ng/ul
+- 102025_COL_SAN_Protran1_290_OFAV
+	- weight - 0.1340g
+	- conc - 32.2ng/ul
+- 102025_COL_SAN_Protran1_319_OFAV
+	- weight - 0.1367g
+	- conc - 32ng/ul
+- 102025_COL_SAN_Protran1_325_OFAV
+	- weight - 0.0610g
+	- conc - 10.5ng/ul
+- 102025_COL_SAN_Protran1_346_OFAV
+	- weight - 0.1086g
+	- conc - 20.0ng/ul
+_____
+## [07/07/2026]
+- 102025_COL_SAN_Protran1_36_OFAV
+	- weight - 0.0228g
+	- conc - 11.7ng/ul
+- 102025_COL_SAN_Protran1_84_OFAV
+	- weight - 0.0086g
+	- conc - 10.5ng/ul
+- 102025_COL_SAN_Protran1_129_OFAV
+	- weight - 0.0072g
+	- conc - 4.24ng/ul
+- 102025_COL_SAN_Protran1_173_OFAV
+	- weight - 0.0156g
+	- conc - 2.4ng/ul
+- 102025_COL_SAN_Protran1_243_OFAV
+	- weight - 0.1311g
+	- conc - 0.266ng/ul
+- 102025_COL_SAN_Protran1_249_OFAV
+	- weight - 0.0115g
+	- conc - 5.82ng/ul
+- 102025_COL_SAN_Protran1_285_OFAV
+	- weight - 0.0084g
+	- conc - 2.3ng/ul
+- 102025_COL_SAN_Protran1_295_OFAV
+	- weight - 0.0153g
+	- conc - 7.2ng/ul
+- 102025_COL_SAN_Protran1_323_OFAV
+	- weight - 0.0042g
+	- conc - 19.3ng/ul
