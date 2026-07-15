@@ -221,3 +221,33 @@ _____
 - 102025_COL_SAN_Protran1_323_OFAV
 	- weight - 0.0042g
 	- conc - 19.3ng/ul
+_______
+## [07/10/2026]
+- 102025_COL_SAN_Protran1_92_OFAV
+	- weight - 0.0521g
+	- conc - 64.0ng/ul
+- 102025_COL_SAN_Protran1_169_OFAV
+	- weight - 0.0254g
+	- conc - 27.0ng/ul
+- 102025_COL_SAN_Protran1_212_OFAV
+	- weight - 0.0164g
+	- conc - 7.12ng/ul
+- 102025_COL_SAN_Protran1_283_OFAV
+	- weight - 0.0100g
+	- conc - 11.2ng/ul
+- 102025_COL_SAN_Protran1_297_OFAV
+	- weight - 0.0193g
+	- conc - 24.4ng/ul
+- 102025_COL_SAN_Protran1_318_OFAV
+	- weight - 0.0160g
+	- conc - 9.30ng/ul
+- 102025_COL_SAN_Protran1_337_OFAV
+	- weight - 0.0075g
+	- conc - 2.96ng/ul
+- 102025_COL_SAN_Protran1_348_OFAV
+	- weight - 0.0278g
+	- conc - 19.1ng/ul
+______
+## [07/14/2026]
+Unfortunately, samples 37,44,131,177,217,279,304,320,343 were ruined on this day :( 
+Do not put the XP-1 buffer in first! It will jellify your samples.

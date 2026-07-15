@@ -19,5 +19,13 @@
 
 # [07/08/2026]
 -  [ ] Do some academic reading
--  [ ] Do a bit of data analysis/visualization
--  [ ] Set up extraction for tm
+	- this week the papers I plan on reading are
+		- The Coral Host Microbiome Modulates the Virulence of the Bacterial Pathogen Vibrio coralliilyticus
+		- Reconsidering functional redundancy in biodiversity research
+-  [x] Do a bit of data analysis/visualization
+-  [x] Set up extraction for tm
+
+# [07/13/2026]
+-  [ ] Work on Masters classes schedule
+-  [ ] Do some reading (2 hours)
+-  [ ] Find a third thing
