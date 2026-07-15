@@ -14,10 +14,10 @@ I took these at the masters level and need to get them applied to my masters pro
 - [ ] Applied Biology I Lecture - 1 cr
 9 credits
 ## Spring 2027
-- [ ] Climate Change - 4cr
-- [ ] Recombinant Protein Production - 4cr (What does Sarah think? Useful?)
+- [ ] Graduate Colloquium - 1cr
+- [ ] Data Science? Dr. Chain/Dr. Sasaki new classes?
 - [ ] Masters Thesis BIOL.7430 - 4cr
-12 credits
+8 credits
 ## Fall 2027
 - [ ]  BIOL.6040 Professional Communication in Science and Technology (Formerly 81.604) - 3cr
 - [ ] Biochemistry I - 3 cr
@@ -25,7 +25,6 @@ I took these at the masters level and need to get them applied to my masters pro
 10 credits
 
 ## Spring 2028
-- [ ] Graduate Colloquium - 1cr
 - [ ] Masters Thesis BIOL.7490 - 4 cr
 5 credits.
 Focus mostly on writing during this time
