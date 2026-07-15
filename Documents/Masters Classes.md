@@ -13,7 +13,7 @@ I took these at the masters level and need to get them applied to my masters pro
 - [ ] Cancer Genomics Lecture - 3cr
 - [ ] Applied Biology I Lecture - 1 cr
 9 credits
-## Spring 2026
+## Spring 2027
 - [ ] Climate Change - 4cr
 - [ ] Recombinant Protein Production - 4cr (What does Sarah think? Useful?)
 - [ ] Masters Thesis BIOL.7430 - 4cr
@@ -24,7 +24,7 @@ I took these at the masters level and need to get them applied to my masters pro
 - [ ] Masters Thesis BIOL.7460 - 4cr
 10 credits
 
-## Spring 2027
+## Spring 2028
 - [ ] Graduate Colloquium - 1cr
 - [ ] Masters Thesis BIOL.7490 - 4 cr
 5 credits.
