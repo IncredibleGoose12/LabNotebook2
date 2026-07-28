@@ -26,6 +26,13 @@
 -  [x] Set up extraction for tm
 
 # [07/13/2026]
--  [ ] Work on Masters classes schedule
--  [ ] Do some reading (2 hours)
--  [ ] Find a third thing
+-  [x] Work on Masters classes schedule
+-  [x] Do some reading (2 hours)
+-  [x] Find a third thing
+
+# [07/23/2026]
+-  I have been terrible at keeping notes recently, due to a very stressful surprise PhD application that I had to do. But basically:
+	- Applied to PhD program to secure a tuition waiver, thanks Sarah for making this all happen smoothly and quickly!
+	- Also shadowed Sarah and Jade while doing the first two steps of the PCR protocol, the initial PCR and then the first gel.
+# [07/28/2026]
+- Today I performed an extraction, updated the required documents, and made myself an aliquot of ethanol for my flames going forward. We will be more effective going forward. Rough few weeks.

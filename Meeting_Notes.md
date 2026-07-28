@@ -60,3 +60,16 @@ ________
 - Read at least two more papers
 - Pshhh I dunno
 ## Nikea notes
+
+_______
+# 07/28/2026
+## What I accomplished last week
+- Got back on track with one successful extraction after the Jell-O incident.
+- Applied to PhD program to 'fix' the TA issue
+- PCR training with Sarah and Jade
+### Notes
+## What I plan to do this week
+- Two to Three more extractions
+- PCR training part 2 
+- Actually get back into reading. A couple of life circumstances have been eating up my free time, but that circumstance is almost dealt with. 
+## Nikea notes
