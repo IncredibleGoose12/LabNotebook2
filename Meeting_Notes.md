@@ -73,3 +73,4 @@ _______
 - PCR training part 2 
 - Actually get back into reading. A couple of life circumstances have been eating up my free time, but that circumstance is almost dealt with. 
 ## Nikea notes
+_Great Brandon! You're making good progress! Lets talk today about choosing a paper to read and chat about together_
