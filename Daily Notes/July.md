@@ -36,3 +36,6 @@
 	- Also shadowed Sarah and Jade while doing the first two steps of the PCR protocol, the initial PCR and then the first gel.
 # [07/28/2026]
 - Today I performed an extraction, updated the required documents, and made myself an aliquot of ethanol for my flames going forward. We will be more effective going forward. Rough few weeks.
+# [07/30/2026]
+- Today was run a gel with Sarah and Anthony day! Yay! I even made my own PCR master mix, ran it, and ran a gel on it. Sarah ran a PCR after mine was done, and Anthony is making that gel.
+- My gel apparently looks great, per Sarah!! I'll take her word for it, we did get two bands where we wanted to see them, the possible 16S band and the possible 18S band (from host.)
