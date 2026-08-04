@@ -281,3 +281,33 @@ _____
 -  102025_COL_SAN_Protran1_334_OFAV
 	- weight - 0.0337g
 	- conc - 16.7ng/ul
+
+_______
+# 08/04/2026
+- 102025_COL_SAN_Protran1_39_OFAV
+	- weight - 0.0256g
+	- conc - 18.1ng/ul
+- 102025_COL_SAN_Protran1_88_OFAV
+	- weight - 0.0246g
+	- conc - 57.4ng/ul
+- 102025_COL_SAN_Protran1_133_OFAV
+	- weight - 0.1361g - incl 100ul liq
+	- conc - 3.28ng/ul
+- 102025_COL_SAN_Protran1_139_OFAV
+	- weight - 0.1362g - incl 100ul liq
+	- conc - 2.74ng/ul
+- 102025_COL_SAN_Protran1_208_OFAV
+	- weight - 0.1392g - incl 100ul liq
+	- conc - 0.708ng/ul
+- 102025_COL_SAN_Protran1_251_OFAV
+	- weight - 0.1476g - incl 100ul liq
+	- conc - 4.30ng/ul
+- 102025_COL_SAN_Protran1_288_OFAV
+	- weight - 0.1388g - incl 100ul liq
+	- conc - 9.50ng/ul
+- 102025_COL_SAN_Protran1_322_OFAV
+	- weight - 0.1071g- incl 100ul liq
+	- conc - 6.26ng/ul
+- 102025_COL_SAN_Protran1_322_OFAV
+	- weight - 01415- incl 100ul liq
+	- conc - 3.20ng/ul
