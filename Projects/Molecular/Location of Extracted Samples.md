@@ -19,3 +19,5 @@ DM - Disease Margin
 | 7/14/2026          | 37,44,131,177,217,279,304,320,343 - These samples were ruined, not extracted | Brandon_Box_1                    |                 |
 | 7/28/2026          | 38,83,130,170,206,248,283,302,334                                            | Brandon_Box_1                    | Penguin         |
 | 08/04/2026         | 39,88,133,139,208,251,288,322,345                                            | Brandon_Box_1                    | Penguin         |
+| 08/07/2026         | 40,46,137,172,213,292,310,336,347                                            | Brandon_Box_2                    | Penguin         |
+|                    |                                                                              |                                  |                 |

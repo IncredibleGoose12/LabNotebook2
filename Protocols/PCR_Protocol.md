@@ -8,7 +8,7 @@ last updated Jun 9, 2026 CCD
 - UV Sterilize all tubes
 - **Repeat 3x for all samples that are to be included in the metabarcode library**
 - *always include water (negative control - indication of no contamination) and very dilute positive controls (1-5ng of DNA) in every experiment*
-- **Mix the following agents via vortex:** Buffer, MgCl2, primers
+- **Mix the following agents via vortex:** Buffer, primers
 - **DO NOT vortex:** BSA or Hot Start Polymerase
 	-  Polymerase should *never* be left at room temperature - **stays in freezer or in freezer box**
 - use aliquoted reagents (limits contamination)
