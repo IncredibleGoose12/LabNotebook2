@@ -33,6 +33,7 @@ copy & paste table off of mm_calculations, note which primer you are using each 
 2. Pipette 24uL of master mix into each replicate tube (3 replicates per sample)
 3. Pipette 1uL of DNA into each replicate tube
 	1. use new pipette tip for each replicate
+	2. spin down before placing in thermocycler
 4. Run thermocycler program:
 	1. 98C for 30 seconds
 	2. **28 cycles** (reduced from 30 cycles to) of:  

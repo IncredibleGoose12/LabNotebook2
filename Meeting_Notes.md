@@ -74,3 +74,15 @@ _______
 - Actually get back into reading. A couple of life circumstances have been eating up my free time, but that circumstance is almost dealt with. 
 ## Nikea notes
 _Great Brandon! You're making good progress! Lets talk today about choosing a paper to read and chat about together_
+
+______
+# 08/12/2026
+## What I accomplished last week
+- A ton of extractions, looking close to the end of the first round, though I know there was talk of adding more? _yes we talked last week about you also extracting the probiotic trial samples from Plazadetoros which is the only site left with the field trial samples to extract. we can chat more about that today_
+- Got the PhD stuff/TA stuff sorted out _phew_
+- Did my first PCR on my own! (Sarah watched/was around for questions) _woot! thats awesome!_
+- Actually read that paper I was supposed to! _if our meeting ends early with Sarah we can talk about it, if not next week_
+
+## What I plan to do this week
+- Continue to do extractions, I would really like to have all of these done by the time school starts. _how many sets left?_
+- I have to create a schedule/timeline for these TA responsibilities, as well as the graduate requirements (I know there are a few orientations, but I will double check with Tani (who is also attending them) that I have everything I need to do! _good idea! have you been assigned a class yet?_

@@ -342,3 +342,64 @@ ______
 - 102025_COL_SAN_Protran1_347_OFAV
 	- weight - 0.1527g
 	- conc - 4.34ng/ul
+
+______
+# 08/10/2026
+all of these samples include 100ul of liquid
+- 102025_COL_SAN_Protran1_42_OFAV
+	- weight -0.1449g
+	- conc - 10.7ng/ul
+- 102025_COL_SAN_Protran1_96_OFAV
+	- weight - 0.1421g
+	- conc - 30.0 ng/ul
+- 102025_COL_SAN_Protran1_135_OFAV
+	- weight - 0.1369g
+	- conc - 3.94ng/ul
+- 102025_COL_SAN_Protran1_143_OFAV
+	- weight - 0.1384g
+	- conc - 4.76ng/ul
+- 102025_COL_SAN_Protran1_205_OFAV
+	- weight - 0.1368g
+	- conc - 8.70ng/ul
+- 102025_COL_SAN_Protran1_244_OFAV
+	- weight - 0.1379g
+	- conc - 7.02ng/ul
+- 102025_COL_SAN_Protran1_284_OFAV
+	- weight - 0.1390g
+	- conc - 18.6ng/ul
+- 102025_COL_SAN_Protran1_301_OFAV
+	- weight - 0.1608g
+	- conc - 12.1ng/ul
+- 102025_COL_SAN_Protran1_335_OFAV
+	- weight - 0.1517g
+	- conc - 22.0ng/ul
+______
+# 08/11/2026
+
+- 102025_COL_SAN_Protran1_43_OFAV
+	- weight -0.1435g
+	- conc - 23.6ng/ul
+- 102025_COL_SAN_Protran1_87_OFAV
+	- weight -0.1496g
+	- conc - 22.2ng/ul
+- 102025_COL_SAN_Protran1_94_OFAV
+	- weight -0.1672g
+	- conc - 29.6ng/ul
+- 102025_COL_SAN_Protran1_176_OFAV
+	- weight -0.1595g
+	- conc - 4.04ng/ul
+- 102025_COL_SAN_Protran1_242_OFAV
+	- weight -0.1398g
+	- conc - 1.67ng/ul
+- 102025_COL_SAN_Protran1_278_OFAV
+	- weight -0.1474g
+	- conc - 10.7ng/ul
+- 102025_COL_SAN_Protran1_294_OFAV
+	- weight -0.1301g
+	- conc - 12.4ng/ul
+- 102025_COL_SAN_Protran1_303_OFAV
+	- weight -0.1417g
+	- conc - 8.6ng/ul
+- 102025_COL_SAN_Protran1_315_OFAV
+	- weight -0.1490g
+	- conc - 11.5ng/ul

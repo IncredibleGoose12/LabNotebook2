@@ -8,3 +8,19 @@
 - Todays goal is to have a clean extraction!!
 - Make sure to update documents
 - Yup
+
+# 08/07/2026 
+- Todays goal is to have a clean extraction!!
+- Update Documents!
+- Finished reading the paper I was meant to last week :)
+- Clean up after yourself!! (as always, but this makes it seem like I do more)
+
+# 08/10/2026 
+- Extraction :)
+
+# 08/11/2026
+- Extraction :)
+# 08/12/2026 
+- Trial run PCR!
+- Gel!
+- Fill out TA contract
