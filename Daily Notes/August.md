@@ -24,3 +24,12 @@
 - Trial run PCR!
 - Gel!
 - Fill out TA contract
+
+# 08/13/2026
+- Today we went out and did some field work! Sifted through the bio boxes at mud creek bright and early at 6am! It was a super fun time
+- In addition, I've put some thought into running some test PCRs for my coral samples. I was thinking I could maybe select two samples, one with a bit higher concentration (30~ng/ul), as well as one with a lower concentration (<5ng/ul), and do a 1:10 dilution of each, and run a temperature gradient. 
+		- Maybe this will help us investigate how the host/microbiome DNA anneals to the primer and find an optimal temp/concentration
+
+# 08/17/2026
+- Today we did lab cleanup and inventory!! It was fun!
+
