@@ -106,3 +106,4 @@ _______
 ## What I plan to do this week
 -  I have three extractions remaining for the initial set, and due to Sam being back in the lab I don't quite have as much free reign. I plan on doing extractions whenever I can, which would be this Friday, next Monday (couldn't this monday due to lab inventory), and next Friday at the LATEST. I'm going to also see if now that field work is over, the supplies in the lab can support two people doing extractions again. If so, I can do these extractions earlier. I'll attempt one on Thursday as well and see if I can't squeeze in there.
 ## Nikea notes
+_Yay great work Brandon! Thanks for being such a helpful and enthusiastic community member by participating in the fieldwork and lab inventory day. You are a great role model to the undergrads! Cool let's talk about your PCR plan, why a 1:10 dilution? Is this what you did with the oyster practice samples?_
