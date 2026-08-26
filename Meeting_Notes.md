@@ -107,3 +107,16 @@ _______
 -  I have three extractions remaining for the initial set, and due to Sam being back in the lab I don't quite have as much free reign. I plan on doing extractions whenever I can, which would be this Friday, next Monday (couldn't this monday due to lab inventory), and next Friday at the LATEST. I'm going to also see if now that field work is over, the supplies in the lab can support two people doing extractions again. If so, I can do these extractions earlier. I'll attempt one on Thursday as well and see if I can't squeeze in there.
 ## Nikea notes
 _Yay great work Brandon! Thanks for being such a helpful and enthusiastic community member by participating in the fieldwork and lab inventory day. You are a great role model to the undergrads! Cool let's talk about your PCR plan, why a 1:10 dilution? Is this what you did with the oyster practice samples?_
+
+________________
+# 08/26/2026
+## What I accomplished last week
+- This week also went pretty well, in regards to academic progress and whatnot. I am glad I was able to get two more extractions done during the tail end of last week, as well as making it to all of the mandatory grad school trainings.
+- I also did some investigating for the health care situation and think that should be resolved, pending a form I should receive today or tomorrow.
+### Notes
+
+## What I plan to do this week
+- Getting my schedule organized as well as knowing the one off events I need to attend
+- Read up on my TA material/perhaps try to organize a meeting with Dr. Yang
+- One or two more extractions
+## Nikea notes

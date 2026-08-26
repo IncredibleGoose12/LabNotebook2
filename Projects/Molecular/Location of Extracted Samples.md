@@ -4,6 +4,7 @@ HT - Healthy Tissue
 DT - Disease Tissue
 DM - Disease Margin
 
+The first batch of samples come from a transmission experiment (COL_SAN Protran1) while the second batch are collected from specimens out in the wild and can serve as a valuable point of comparison (Plaza del Toros)
 
 | Date of Extraction | Samples Extracted                                                            | Box Containing Extracted Samples | Location of Box |
 | ------------------ | ---------------------------------------------------------------------------- | -------------------------------- | --------------- |
