@@ -26,3 +26,4 @@ The first batch of samples come from a transmission experiment (COL_SAN Protran1
 | 8/14/2026          | 45,86,134,175,216,286,296,342,344                                            | Brandon_Box_2                    | Penguin         |
 | 8/20/2026          | 47,82,89,91,93,136,138,140,142                                               | Brandon_Box_2                    | Penguin         |
 | 8/21/2026          | 144,171,178,180,207,209,211,214,245                                          | Brandon_Box_2                    | Penguin         |
+| 8/28/2026          | 247,250,252,287,289,291,293,299,309                                          | Brandon_Box_2                    | Penguin         |

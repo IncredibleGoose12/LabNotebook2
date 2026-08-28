@@ -38,3 +38,13 @@
 	- Finishing getting my weekly schedule hammered out and use some sort of time management program to make it presentable/look nice
 	- I would like to do a good chunk of work my draft for my report today
 	- Comb through my email to make sure I am up to date on everything.
+
+# 08/27/2026
+- I was planning on doing an extraction today, but I waited too long to schedule the BSC and it got snatched away from me. Gonna go tomorrow, finish on monday.
+- Made a visual schedule showing my weekly obligations and sent it to Sarah
+- Called the health insurance company and got the form I needed filled out, hope that's handled
+- Listened to GEO negotiations for contracts, the school reps are insanely rude!!!!
+
+# 08/28/2026
+ - Extraction today!!
+ - Excited for the cookout tomorrow!
