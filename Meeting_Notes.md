@@ -120,3 +120,17 @@ ________________
 - Read up on my TA material/perhaps try to organize a meeting with Dr. Yang
 - One or two more extractions
 ## Nikea notes
+
+_____________________
+# 09/02/2026
+## What I accomplished last week
+- First week of classes/orientations!! It's the random appointments that happen in the first few weeks that have me on my toes, but I think I have most of them under control.
+- I managed to get one extraction done, which is less than I wanted, but that's okay.
+- Finished and submitted my report for KCS masters!
+### Notes
+
+## What I plan to do this week
+- PCR on friday, running a temperature gradient on high/low conc coral samples
+- Last extraction for this last set on monday, and set up for the next round 
+- I also want to get a little bit of an idea on how I want to shape my poster for the bio retreat
+## Nikea notes

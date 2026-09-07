@@ -48,3 +48,9 @@
 # 08/28/2026
  - Extraction today!!
  - Excited for the cookout tomorrow!
+
+# 08/31/2026
+- Todays goals are to be prepared for TA
+- I reached out to Dr. Yang to verify when our first meeting is, it's not this week it's next week
+- First week of TAing is the week of 9/14, I was a bit stressed about having to teach a class before out meeting, but that's not gonna happen.
+- Complete modules for TA

@@ -522,3 +522,19 @@ ____
 	- weight - 0.1582g
 	- conc - 42.6ng/ul
 ____
+# 09/07/2026
+- 102025_COL_SAN_Protran1_311_OFAV
+	- weight - 0.1937g - very small sample
+	- conc - 0.150ng/ul
+- 102025_COL_SAN_Protran1_313_OFAV
+	- weight - 0.1508g - sample was in pieces
+	- conc - 0.246ng/ul
+- 102025_COL_SAN_Protran1_321_OFAV
+	- weight - 0.1285g
+	- conc - 2.02ng/ul
+- 102025_COL_SAN_Protran1_324_OFAV
+	- weight - 0.1299g
+	- conc - 0.968ng/ul
+- 102025_COL_SAN_Protran1_341_OFAV
+	- weight - 0.1471g
+	- conc - 1.33ng/ul
