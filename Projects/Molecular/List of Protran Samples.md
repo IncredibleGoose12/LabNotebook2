@@ -115,24 +115,24 @@
 | 304           | COL_SAN_Protran1_304 | 24   |       | 2         | 7/14       |
 | 309           | COL_SAN_Protran1_309 | 9    |       | 2         | 8/28       |
 | 310           | COL_SAN_Protran1_310 | 9    |       | 2         | 8/7        |
-| 311           | COL_SAN_Protran1_311 | 10   |       | 2         |            |
+| 311           | COL_SAN_Protran1_311 | 10   |       | 2         | 9/7        |
 | 312           | COL_SAN_Protran1_312 | 10   |       | 2         | 6/25       |
-| 313           | COL_SAN_Protran1_313 | 11   |       | 2         |            |
+| 313           | COL_SAN_Protran1_313 | 11   |       | 2         | 9/7        |
 | 315           | COL_SAN_Protran1_315 | 11   |       | 2         | 8/11       |
 | 318           | COL_SAN_Protran1_318 | 25   |       | 2         | 7/10       |
 | 319           | COL_SAN_Protran1_319 | 25   |       | 2         | 7/3        |
 | 320           | COL_SAN_Protran1_320 | 26   |       | 2         | 7/14       |
-| 321           | COL_SAN_Protran1_321 | 26   |       | 2         |            |
+| 321           | COL_SAN_Protran1_321 | 26   |       | 2         | 9/7        |
 | 322           | COL_SAN_Protran1_322 | 27   |       | 2         | 8/4        |
 | 323           | COL_SAN_Protran1_323 | 27   |       | 2         | 7/7        |
-| 324           | COL_SAN_Protran1_324 | 28   |       | 2         |            |
+| 324           | COL_SAN_Protran1_324 | 28   |       | 2         | 9/7        |
 | 325           | COL_SAN_Protran1_325 | 28   |       | 2         | 7/3        |
 | 334           | COL_SAN_Protran1_334 | 13   |       | 2         | 7/28       |
 | 335           | COL_SAN_Protran1_335 | 13   |       | 2         | 8/10       |
 | 336           | COL_SAN_Protran1_336 | 14   |       | 2         | 8/7        |
 | 337           | COL_SAN_Protran1_337 | 15   |       | 2         | 7/10       |
 | 338           | COL_SAN_Protran1_338 | 15   |       | 2         | 6/30       |
-| 341           | COL_SAN_Protran1_341 | 29   |       | 2         |            |
+| 341           | COL_SAN_Protran1_341 | 29   |       | 2         | 9/7        |
 | 342           | COL_SAN_Protran1_342 | 29   |       | 2         | 8/14       |
 | 343           | COL_SAN_Protran1_343 | 30   |       | 2         | 7/14       |
 | 344           | COL_SAN_Protran1_344 | 30   |       | 2         | 8/14       |
