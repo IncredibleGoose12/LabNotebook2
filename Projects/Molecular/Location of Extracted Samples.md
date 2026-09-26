@@ -29,3 +29,8 @@ The first batch of samples come from a transmission experiment (COL_SAN Protran1
 | 8/28/2026          | 247,250,252,287,289,291,293,299,309                                          | Brandon_Box_2                    | Penguin         |
 | 9/7/2026           | 311,313,321,324,341                                                          | Brandon_Box_2                    | Penguin         |
 |                    |                                                                              |                                  |                 |
+# Location of Post-PCR Samples
+
+| Date_PCRd | Samples                 | Box                | Location |
+| --------- | ----------------------- | ------------------ | -------- |
+| 9/21/2026 | 33, 133, 209, 294,  318 | Brandon_Post_PCR_1 | Penguin  |
