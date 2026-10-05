@@ -14,7 +14,7 @@
 
 ## Table of Contents 
 
-[[Meeting_Notes]]
+[[Meeting_Notes_Old]]
 - detailed meeting notes with mentor
 [[Priorities]]
 - Running list of tasks/priorities
