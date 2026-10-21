@@ -5,24 +5,24 @@
 
 - First Ecology exam, very long endeavor that wound up eating close to ten hours but we get it done, definitely a daunting exam but I think it went well
 - Also, had my first Cancer Genomics quiz but that was a lot better/smooth and I know I did well on that.
-- Got my poster printed, now I just need to actually practice running through it
-- As I type this I am doing the gel for a PCR I ran earlier in the week, we'll see how this turns out
-- TAing has been a fine enough experience the last two labs, and I got caught up on grading
-- Made it to colloquium though didn't stick around to eat (was sick/wearing a mask so figured not to risk it)
+- Got my poster printed, now I just need to actually practice running through it _yay!_
+- As I type this I am doing the gel for a PCR I ran earlier in the week, we'll see how this turns out _woohoo!_
+- TAing has been a fine enough experience the last two labs, and I got caught up on grading _great!_
+- Made it to colloquium though didn't stick around to eat (was sick/wearing a mask so figured not to risk it) _nice!_
 
 ### Notes
 
 ## What I plan to do this week
 - If I am smart about how I handle things, I can be on top of what I need to do and not be in disaster mode.
-	- This means having my research connection (rather large component of ecology) DONE by end of week. The due date is 10/29
-	- I also have things like the lab meeting I am leading (3 weeks). If I get started early instead of just doing nothing because I'm tired I can have this not be an anxiety inducing mess this weekend.
+	- This means having my research connection (rather large component of ecology) DONE by end of week. The due date is 10/29 _ok!_
+	- I also have things like the lab meeting I am leading (3 weeks). If I get started early instead of just doing nothing because I'm tired I can have this not be an anxiety inducing mess this weekend. _ok easy, you dont have to give lab meeting, lets delete that_
 - Exams and quizzes just occurred, I get a tiny teeny 'break' where I get to focus solely on the projects that are due.
-- Run through my poster a billion times
-- I need to make my damn costume for saturday omfgggg whatever I'll get it done
+- Run through my poster a billion times _just a few times!_
+- I need to make my damn costume for saturday omfgggg whatever I'll get it done _if you cant dress up its not the end of the world!_
 
 
 ## Sarah notes
-
+_Seems like you have things more under control, and I await the gel image with baited breath. We will talk it through tomorrow, but I need you to use anthony for those gels!_
 _________
 
 # 10/14/2026
