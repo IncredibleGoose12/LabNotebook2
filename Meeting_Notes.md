@@ -1,23 +1,27 @@
-# 09/30/2026
+
+# 10/21/2026
 
 ## What I accomplished last week
 
-- Many coursework assignments
-- Did two PCRS and two gels, however going forward I will be doing a modified approach to that (PCR + 2 gels monday, PCR Friday) _great! what did they look like? you're doing them for real now right? do you think your system of keeping the products and the gels is working? how many samples are you doing at a time?_
-- TA'd successfully, even if there was a couple roadblocks _great! what were the roadblocks?_
-- Did my first ever round of grading _nice!_
+- First Ecology exam, very long endeavor that wound up eating close to ten hours but we get it done, definitely a daunting exam but I think it went well
+- Also, had my first Cancer Genomics quiz but that was a lot better/smooth and I know I did well on that.
+- Got my poster printed, now I just need to actually practice running through it
+- As I type this I am doing the gel for a PCR I ran earlier in the week, we'll see how this turns out
+- TAing has been a fine enough experience the last two labs, and I got caught up on grading
+- Made it to colloquium though didn't stick around to eat (was sick/wearing a mask so figured not to risk it)
+
 ### Notes
 
 ## What I plan to do this week
+- If I am smart about how I handle things, I can be on top of what I need to do and not be in disaster mode.
+	- This means having my research connection (rather large component of ecology) DONE by end of week. The due date is 10/29
+	- I also have things like the lab meeting I am leading (3 weeks). If I get started early instead of just doing nothing because I'm tired I can have this not be an anxiety inducing mess this weekend.
+- Exams and quizzes just occurred, I get a tiny teeny 'break' where I get to focus solely on the projects that are due.
+- Run through my poster a billion times
+- I need to make my damn costume for saturday omfgggg whatever I'll get it done
 
-- Actually get started on my research  (Introduction and Background? Maybe outline of methods as well?) _Do you mean poster? lol you have started your research!_
-- Make modifications to figures (NIkea gave me a bunch of feedback, will modify based upon your feedback) _do you want to show me now or after you make nikeas changes?_
-- I need to do all my SDM stuff for Ecology ( :') ) 
-- Grade assignment 2 on saturday, assign assignment 4 (actually i skip this week as they have a long project about this lab)
-- Upgrade 5 samples +negative to 10 samples (in triplicate plus neg) for now, see if weekend PCRs are possible.
+
 ## Sarah notes
-How do you feel your time management is going? getting the hang of things more?
-Just so we're on the same page, can you plan to give me a full draft of your poster before our meeting on october 15?
 
 _________
 
@@ -45,3 +49,25 @@ _________
 do you want to look at some of your time tracking together? 
 Any questions about my comments on the poster?
 
+_____
+
+# 09/30/2026
+
+## What I accomplished last week
+
+- Many coursework assignments
+- Did two PCRS and two gels, however going forward I will be doing a modified approach to that (PCR + 2 gels monday, PCR Friday) _great! what did they look like? you're doing them for real now right? do you think your system of keeping the products and the gels is working? how many samples are you doing at a time?_
+- TA'd successfully, even if there was a couple roadblocks _great! what were the roadblocks?_
+- Did my first ever round of grading _nice!_
+### Notes
+
+## What I plan to do this week
+
+- Actually get started on my research  (Introduction and Background? Maybe outline of methods as well?) _Do you mean poster? lol you have started your research!_
+- Make modifications to figures (NIkea gave me a bunch of feedback, will modify based upon your feedback) _do you want to show me now or after you make nikeas changes?_
+- I need to do all my SDM stuff for Ecology ( :') ) 
+- Grade assignment 2 on saturday, assign assignment 4 (actually i skip this week as they have a long project about this lab)
+- Upgrade 5 samples +negative to 10 samples (in triplicate plus neg) for now, see if weekend PCRs are possible.
+## Sarah notes
+How do you feel your time management is going? getting the hang of things more?
+Just so we're on the same page, can you plan to give me a full draft of your poster before our meeting on october 15?
