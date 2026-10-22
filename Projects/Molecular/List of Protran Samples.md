@@ -3,8 +3,8 @@
 | Sample number | Tube Label           | Tank | Genet | Timepoint | Extracted? | PCR_Date |
 | ------------- | -------------------- | ---- | ----- | --------- | ---------- | -------- |
 | 33            | COL_SAN_Protran1_33  | 33   | 285   | 1         | 6/25       | 9/21     |
-| 34            | COL_SAN_Protran1_34  | 34   | 285   | 1         | 6/30       |          |
-| 35            | COL_SAN_Protran1_35  | 35   | 285   | 1         | 7/3        |          |
+| 34            | COL_SAN_Protran1_34  | 34   | 285   | 1         | 6/30       | 10/2     |
+| 35            | COL_SAN_Protran1_35  | 35   | 285   | 1         | 7/3        | 10/5     |
 | 36            | COL_SAN_Protran1_36  | 36   | 285   | 1         | 7/7        |          |
 | 37            | COL_SAN_Protran1_37  | 37   | 285   | 1         | 7/14       |          |
 | 38            | COL_SAN_Protran1_38  | 38   | 285   | 1         | 7/28       |          |
@@ -17,9 +17,9 @@
 | 45            | COL_SAN_Protran1_45  | 45   | 285   | 1         | 8/14       |          |
 | 46            | COL_SAN_Protran1_46  | 46   | 285   | 1         | 8/7        | 9/25     |
 | 47            | COL_SAN_Protran1_47  | 47   | 285   | 1         | 8/20       |          |
-| 48            | COL_SAN_Protran1_48  | 48   | 285   | 1         | 6/30       |          |
+| 48            | COL_SAN_Protran1_48  | 48   | 285   | 1         | 6/30       | 10/2     |
 | 81            | COL_SAN_Protran1_81  | 33   | 9     | 1         | 6/30       |          |
-| 82            | COL_SAN_Protran1_82  | 34   | 9     | 1         | 8/20       |          |
+| 82            | COL_SAN_Protran1_82  | 34   | 9     | 1         | 8/20       | 10/5     |
 | 83            | COL_SAN_Protran1_83  | 35   | 9     | 1         | 7/28       |          |
 | 84            | COL_SAN_Protran1_84  | 36   | 9     | 1         | 7/7        |          |
 | 85            | COL_SAN_Protran1_85  | 37   | 9     | 1         | 7/3        |          |
@@ -27,48 +27,48 @@
 | 87            | COL_SAN_Protran1_87  | 39   | 9     | 1         | 8/11       |          |
 | 88            | COL_SAN_Protran1_88  | 40   | 9     | 1         | 8/4        |          |
 | 89            | COL_SAN_Protran1_89  | 41   | 9     | 1         | 8/20       |          |
-| 90            | COL_SAN_Protran1_90  | 42   | 9     | 1         | 6/25       |          |
+| 90            | COL_SAN_Protran1_90  | 42   | 9     | 1         | 6/25       | 10/5     |
 | 91            | COL_SAN_Protran1_91  | 43   | 9     | 1         | 8/20       |          |
 | 92            | COL_SAN_Protran1_92  | 44   | 9     | 1         | 7/10       |          |
 | 93            | COL_SAN_Protran1_93  | 45   | 9     | 1         | 8/20       |          |
 | 94            | COL_SAN_Protran1_94  | 46   | 9     | 1         | 8/11       |          |
 | 95            | COL_SAN_Protran1_95  | 47   | 9     | 1         | 6/30       |          |
-| 96            | COL_SAN_Protran1_96  | 48   | 9     | 1         | 8/10       |          |
+| 96            | COL_SAN_Protran1_96  | 48   | 9     | 1         | 8/10       | 10/2     |
 | 129           | COL_SAN_Protran1_129 | 33   | 293   | 1         | 7/7        |          |
-| 130           | COL_SAN_Protran1_130 | 34   | 293   | 1         | 7/28       |          |
+| 130           | COL_SAN_Protran1_130 | 34   | 293   | 1         | 7/28       | 10/5     |
 | 131           | COL_SAN_Protran1_131 | 35   | 293   | 1         | 7/14       |          |
 | 132           | COL_SAN_Protran1_132 | 36   | 293   | 1         | 6/25       |          |
 | 133           | COL_SAN_Protran1_133 | 37   | 293   | 1         | 8/4        | 9/21     |
 | 134           | COL_SAN_Protran1_134 | 38   | 293   | 1         | 8/14       |          |
 | 135           | COL_SAN_Protran1_135 | 39   | 293   | 1         | 8/10       |          |
 | 136           | COL_SAN_Protran1_136 | 40   | 293   | 1         | 8/20       |          |
-| 137           | COL_SAN_Protran1_137 | 41   | 293   | 1         | 8/7        |          |
+| 137           | COL_SAN_Protran1_137 | 41   | 293   | 1         | 8/7        | 10/2     |
 | 138           | COL_SAN_Protran1_138 | 42   | 293   | 1         | 8/20       |          |
 | 139           | COL_SAN_Protran1_139 | 43   | 293   | 1         | 8/4        |          |
 | 140           | COL_SAN_Protran1_140 | 44   | 293   | 1         | 8/20       |          |
 | 141           | COL_SAN_Protran1_141 | 45   | 293   | 1         | 6/30       | 9/25     |
 | 142           | COL_SAN_Protran1_142 | 46   | 293   | 1         | 8/20       |          |
-| 143           | COL_SAN_Protran1_143 | 47   | 293   | 1         | 8/10       |          |
+| 143           | COL_SAN_Protran1_143 | 47   | 293   | 1         | 8/10       | 10/2     |
 | 144           | COL_SAN_Protran1_144 | 48   | 293   | 1         | 8/21       |          |
 | 169           | COL_SAN_Protran1_169 | 33   |       | 2         | 7/10       |          |
 | 170           | COL_SAN_Protran1_170 | 33   |       | 2         | 7/28       |          |
-| 171           | COL_SAN_Protran1_171 | 33   |       | 2         | 8/21       |          |
+| 171           | COL_SAN_Protran1_171 | 33   |       | 2         | 8/21       | 10/5     |
 | 172           | COL_SAN_Protran1_172 | 34   |       | 2         | 8/7        |          |
 | 173           | COL_SAN_Protran1_173 | 34   |       | 2         | 7/7        |          |
 | 174           | COL_SAN_Protran1_174 | 34   |       | 2         | 7/3        |          |
 | 175           | COL_SAN_Protran1_175 | 35   |       | 2         | 8/14       |          |
-| 176           | COL_SAN_Protran1_176 | 35   |       | 2         | 8/11       |          |
+| 176           | COL_SAN_Protran1_176 | 35   |       | 2         | 8/11       | 10/2     |
 | 177           | COL_SAN_Protran1_177 | 35   |       | 2         | 7/14       |          |
 | 178           | COL_SAN_Protran1_178 | 36   |       | 2         | 8/21       |          |
-| 179           | COL_SAN_Protran1_179 | 36   |       | 2         | 6/30       |          |
+| 179           | COL_SAN_Protran1_179 | 36   |       | 2         | 6/30       | 10/5     |
 | 180           | COL_SAN_Protran1_180 | 36   |       | 2         | 8/21       |          |
 | 205           | COL_SAN_Protran1_205 | 37   |       | 2         | 8/10       |          |
 | 206           | COL_SAN_Protran1_206 | 37   |       | 2         | 7/28       |          |
-| 207           | COL_SAN_Protran1_207 | 37   |       | 2         | 8/21       |          |
+| 207           | COL_SAN_Protran1_207 | 37   |       | 2         | 8/21       | 10/2     |
 | 208           | COL_SAN_Protran1_208 | 38   |       | 2         | 8/4        |          |
 | 209           | COL_SAN_Protran1_209 | 38   |       | 2         | 8/21       | 9/21     |
 | 210           | COL_SAN_Protran1_210 | 38   |       | 2         | 6/30       |          |
-| 211           | COL_SAN_Protran1_211 | 39   |       | 2         | 8/21       |          |
+| 211           | COL_SAN_Protran1_211 | 39   |       | 2         | 8/21       | 10/5     |
 | 212           | COL_SAN_Protran1_212 | 39   |       | 2         | 7/10       |          |
 | 213           | COL_SAN_Protran1_213 | 39   |       | 2         | 8/7        |          |
 | 214           | COL_SAN_Protran1_214 | 40   |       | 2         | 8/21       | 9/25     |
@@ -76,18 +76,18 @@
 | 216           | COL_SAN_Protran1_216 | 40   |       | 2         | 8/14       |          |
 | 217           | COL_SAN_Protran1_217 | 40   |       | 2         | 7/14       |          |
 | 242           | COL_SAN_Protran1_242 | 41   |       | 2         | 8/11       |          |
-| 243           | COL_SAN_Protran1_243 | 41   |       | 2         | 7/7        |          |
+| 243           | COL_SAN_Protran1_243 | 41   |       | 2         | 7/7        | 10/2     |
 | 244           | COL_SAN_Protran1_244 | 41   |       | 2         | 8/10       |          |
 | 245           | COL_SAN_Protran1_245 | 42   |       | 2         | 8/21       |          |
-| 246           | COL_SAN_Protran1_246 | 42   |       | 2         | 7/3        |          |
+| 246           | COL_SAN_Protran1_246 | 42   |       | 2         | 7/3        | 10/5     |
 | 247           | COL_SAN_Protran1_247 | 42   |       | 2         | 8/28       |          |
-| 248           | COL_SAN_Protran1_248 | 43   |       | 2         | 7/28       |          |
+| 248           | COL_SAN_Protran1_248 | 43   |       | 2         | 7/28       | 10/2     |
 | 249           | COL_SAN_Protran1_249 | 43   |       | 2         | 7/7        |          |
 | 250           | COL_SAN_Protran1_250 | 43   |       | 2         | 8/28       |          |
 | 251           | COL_SAN_Protran1_251 | 44   |       | 2         | 8/4        |          |
 | 252           | COL_SAN_Protran1_252 | 44   |       | 2         | 8/28       |          |
 | 253           | COL_SAN_Protran1_253 | 44   |       | 2         | 6/30       |          |
-| 278           | COL_SAN_Protran1_278 | 45   |       | 2         | 8/11       |          |
+| 278           | COL_SAN_Protran1_278 | 45   |       | 2         | 8/11       | 10/5     |
 | 279           | COL_SAN_Protran1_279 | 45   |       | 2         | 7/14       |          |
 | 280           | COL_SAN_Protran1_280 | 45   |       | 2         | 7/3        |          |
 | 281           | COL_SAN_Protran1_281 | 46   |       | 2         | 6/25       |          |
@@ -98,7 +98,7 @@
 | 286           | COL_SAN_Protran1_286 | 47   |       | 2         | 8/14       |          |
 | 287           | COL_SAN_Protran1_287 | 48   |       | 2         | 8/28       |          |
 | 288           | COL_SAN_Protran1_288 | 48   |       | 2         | 8/4        |          |
-| 289           | COL_SAN_Protran1_289 | 48   |       | 2         | 8/28       |          |
+| 289           | COL_SAN_Protran1_289 | 48   |       | 2         | 8/28       | 10/5     |
 | 290           | COL_SAN_Protran1_290 | 1    |       | 2         | 7/3        |          |
 | 291           | COL_SAN_Protran1_291 | 2    |       | 2         | 8/28       |          |
 | 292           | COL_SAN_Protran1_292 | 3    |       | 2         | 8/7        |          |
@@ -129,7 +129,7 @@
 | 325           | COL_SAN_Protran1_325 | 28   |       | 2         | 7/3        |          |
 | 334           | COL_SAN_Protran1_334 | 13   |       | 2         | 7/28       |          |
 | 335           | COL_SAN_Protran1_335 | 13   |       | 2         | 8/10       |          |
-| 336           | COL_SAN_Protran1_336 | 14   |       | 2         | 8/7        |          |
+| 336           | COL_SAN_Protran1_336 | 14   |       | 2         | 8/7        | 10/2     |
 | 337           | COL_SAN_Protran1_337 | 15   |       | 2         | 7/10       |          |
 | 338           | COL_SAN_Protran1_338 | 15   |       | 2         | 6/30       |          |
 | 341           | COL_SAN_Protran1_341 | 29   |       | 2         | 9/7        |          |
