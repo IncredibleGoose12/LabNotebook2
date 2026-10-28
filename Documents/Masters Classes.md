@@ -5,19 +5,19 @@ https://www.uml.edu/catalog/graduate/sciences/biology/degree-pathways/dp-biology
 
 ## Courses from Undergrad
 I took these at the masters level and need to get them applied to my masters program!!
-- [ ] Global Change - 4cr
-- [ ] Evolutionary Biology - 4cr
+- [x] Global Change - 4cr
+- [x] Evolutionary Biology - 4cr
 
 ## Fall 2026
-- [ ] Principles of Ecology Lecture + Lab - 5cr
-- [ ] Cancer Genomics Lecture - 3cr
-- [ ] Applied Biology I Lecture - 1 cr
+- [x] Principles of Ecology Lecture + Lab - 5cr
+- [x] Cancer Genomics Lecture - 3cr
+- [x] Applied Biology I Lecture - 1 cr
 9 credits
 ## Spring 2027
 - [ ] Graduate Colloquium - 1cr
-- [ ] Data Science? Dr. Chain/Dr. Sasaki new classes?
-- [ ] Masters Thesis BIOL.7430 - 4cr
-8 credits
+- [ ] Experimental Design (Dr. Sasaki) - 3cr
+- [ ] Masters Thesis BIOL.7430 - 5cr
+9 credits
 ## Fall 2027
 - [ ]  BIOL.6040 Professional Communication in Science and Technology (Formerly 81.604) - 3cr
 - [ ] Biochemistry I - 3 cr
