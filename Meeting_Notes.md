@@ -4,15 +4,15 @@
 
 - I am in a pretty manageable place, thankfully. At least academically.
 	- Ecology is in a bit of a lull, two more weeks for next research connection (will get done this week I think), group work has become more managable as lab time is now dedicated to that. Also had a conversation with the third group member regarding their contribution and hopefully it will be divided among 3 (instead of 2) people going forward
-- In regards to PCR, I have done two this week and the gels came back good from Anthony and they WERE CLEAN!!!!!!!
-	- Gonna try to get one to two more done this week, keep the 3-4 a week going and I should be in a good place
+- In regards to PCR, I have done two this week and the gels came back good from Anthony and they WERE CLEAN!!!!!!! _woohoo!!!_
+	- Gonna try to get one to two more done this week, keep the 3-4 a week going and I should be in a good place _awesome!_
 - TAing this week was a bit easier as it was remedial, last week was mitosis and this week was meiosis. Need to grade still.
 ### Notes
 
 ## What I plan to do this week
 -  2 more PCRs 
 -  Research connection 
--  I want to get some data analysis going and actually feel like I'm contributing something to the lab. I know that right now isn't the best time to do something like this, but I see all the work the other grad students (and even most undergrads) and feel like I'm not doing enough. The classwork has been a ton this semester, and I really just want to dive into the research work but my schedule makes it difficult.
+-  I want to get some data analysis going and actually feel like I'm contributing something to the lab. I know that right now isn't the best time to do something like this, but I see all the work the other grad students (and even most undergrads) and feel like I'm not doing enough. The classwork has been a ton this semester, and I really just want to dive into the research work but my schedule makes it difficult. _no, focus on pcrs!! you are contributing to the lab!_
 	- Looking forward to next semester. Like a lot. I really am looking forward to having the time to dedicate to the lab.
 - I'm going home this weekend, it's been a few months due to the issues going on. Hopefully it's peaceful.
 
