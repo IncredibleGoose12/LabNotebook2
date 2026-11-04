@@ -1,3 +1,21 @@
+# 11/04/2026
+
+## What I accomplished last week
+
+- Got a bunch more PCRs done, pretty happy with how that's been progressing. I do kind of hate the delayed response on it, but that's life. The past few have been good, so let's just hope it stays that way!
+- Selected paper for my research connection, need to read it and then bang out the assignment and presentation for it. It's on trophic levels and such, something I'm not super familiar with so it will be a fun learning experience, but that is my 'big' assignment right now
+- Ecology exam got graded and I was happy with the result
+- TAing was okay, my Tuesday section always stresses me out a little bit, I never feel like I do a 'good enough' job teaching or that I am too lenient in their grading. Dr. Yang always wants me to enforce very tough policies (that I do agree with), and I just need to find the right middle ground to ensure a good experience for everyone.
+
+### Notes
+
+## What I plan to do this week
+-  Several more PCRs, get some gel results back
+- Finish up research connection and associated presentation (It's due week after next)
+- Need to finish up grading worksheets five and six so I can be fully caught up for the big lab report grading which is gonna be a lot of work
+- uhhh other things probably
+_______
+
 # 10/28/2026
 
 ## What I accomplished last week
