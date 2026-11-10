@@ -5,8 +5,8 @@ https://www.uml.edu/catalog/graduate/sciences/biology/degree-pathways/dp-biology
 
 ## Courses from Undergrad
 I took these at the masters level and need to get them applied to my masters program!!
-- [x] Global Change - 4cr
-- [x] Evolutionary Biology - 4cr
+- [x] Global Change - 3cr
+- [x] Evolutionary Biology - 3cr
 
 ## Fall 2026
 - [x] Principles of Ecology Lecture + Lab - 5cr
