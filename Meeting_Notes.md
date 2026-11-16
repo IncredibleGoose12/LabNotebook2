@@ -13,7 +13,7 @@
 -  Several more PCRs, get some gel results back
 - Finish up research connection and associated presentation (It's due week after next)
 - Need to finish up grading worksheets five and six so I can be fully caught up for the big lab report grading which is gonna be a lot of work
-- uhhh other things probably
+- 
 _______
 
 # 10/28/2026
