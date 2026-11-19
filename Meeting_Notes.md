@@ -1,3 +1,25 @@
+# 11/19/2026
+## What I accomplished last week
+
+- A ton of classwork. It feels like I have been a frog in a boiling pot who has just now realized the temperature.
+	- Research connection 2 + Presentation that is associated with it
+	- Cancer Genomics Quiz 4 preparation, it was brutal and my entire group (we do a group version after) was certainly struggling. I feel like I did okay. I dunno
+	- Final project work for Ecology, found and cleaned a dataset for Beaver range distribution in Mass (observation based) from 1990-2020 and want to compare the extreme temporal ends of that dataset.
+	- I managed to get two PCRs done, the PCRs I came in on Saturday for. I did not get any done on Friday or Monday like I wanted to (Friday I spent grading to catch up for the big grading thing I need to do over break, Monday I just crashed out.)
+	- A ton of little assignments for Applied Biology (career reflection, IDP thing, and a report on an AI tool.)
+- I'm sure I did other things, I'm just failing to remember what they were.
+- Part of this is definitely an objective high workload, in combination with high stress and emotional distress. My family circumstance is taking a huge toll on me, especially with it being the holidays.
+- I always figure out a way to half ass everything, but then I wind up doing a poorer performance that I would like, or for example these meeting notes. I'm sitting here waiting for my student to meet up with me, he's late so I get to work on them.
+### Notes
+
+## What I plan to do this week
+- Idk if I'm gonna go home for thanksgiving. I'm leaning towards no. It'll be rough on my mother, and my father will surely be happy about it, but between all the coursework and PCR I need to do to catch up, it just doesn't seem like a wise decision.
+- I need to grade a big report over this break, come up with some outline for a final project I haven't even started (though it doesn't look too horrible) by Wednesday, timer is ticking for my next (and last) Research Connection for Ecology. In addition to the weekly 'flipped-classroom' work I need to do for Cancer Genomics. God I hate flipped classroom so much. If I fail to learn a concept, the thing I am in the class to do, there is no opportunity to actually learn before being punished. It is stressful.
+- The days off will be so nice for me to just do some work. Going home to my family would just ruin my mood. It would be a waste of a good extra long weekend.
+- I'm two PCRs behind where I thought we would be at this point
+
+_____
+
 # 11/04/2026
 
 ## What I accomplished last week
